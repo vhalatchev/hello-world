@@ -14,7 +14,7 @@
 
     <label for="email"><b>Enter Email has been changed v1</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
+    <br><br><br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you, Viho! Happy Learning! </h1>
 
   
 </form>
